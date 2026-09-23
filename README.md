@@ -1,3 +1,4 @@
+
 # Hi there, I'm Bashar Maaz 👋
 
 ### 🚀 Full-Stack Software Engineer & Systems Architect
@@ -51,29 +52,31 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+---
+
 ## 🛠️ Featured Engineering Projects
 
 ### 🛒 [HQ-Store | Enterprise E-Commerce Platform](https://github.com/NinjaStackX/HQ_Store)
 > Strict Service-Repository pattern built with Next.js 15 & Prisma to decouple Business Logic from Data Access.
-
 - **Financial Integrity:** Precision pricing engine using `Decimal.js` and PostgreSQL `Decimal` types to eliminate floating-point calculation errors.
 - **Concurrency Control:** Atomic Transactions on checkout preventing race conditions and guaranteeing 100% inventory accuracy under load.
 - **Performance:** 100/100 Lighthouse scores achieved by tuning Critical Rendering Paths and building custom CSS-only UI primitives.
-- **Advanced UX:** Optimistic "Guest-to-User" cart merging pipeline with a dynamic admin dashboard powered by Recharts.
 
 ### 🍽️ [Bm.resto | DineOS | Real-Time Restaurant Management](https://github.com/NinjaStackX/DineOS)
 > Full-stack event-driven management dashboard featuring WebSockets and persistent server hooks.
-
-- **Event-Driven Workflow:** Node.js `EventEmitter` pipeline decoupling order transactions from side effects (logging & real-time alerts).
+- **Event-Driven Workflow:** Node.js `EventEmitter` pipeline decoupling order transactions from side effects.
 - **Real-Time Engine:** Integrated Pusher Channels with `Howler.js` to bypass browser autoplay constraints for instant order alerts.
-- **Server Instrumentation:** Configured Next.js `instrumentation.ts` for server background initialization and lifecycle listeners.
-- **State Sync:** Optimized UI responsiveness using Zustand alongside TanStack Query for server hydration.
+- **Server Instrumentation:** Configured Next.js `instrumentation.ts` for server background initialization.
 
 ### 🌐 [Syrian Platform | Dynamic Multilingual Web Platform](https://github.com/NinjaStackX/sy-platform)
 > RTL-First internationalization pipeline with zero layout shift during locale detection.
-
 - **Localization:** Automated `i18next` integration with native RTL/LTR CSS switching and mirrored Framer Motion animations.
 - **SSR & Hydration:** Resolved client/server hydration mismatches in Next.js layout layers, eliminating CLS completely.
+
+### 🍫 [Melt-Choco | Animated Landing Page](https://github.com/NinjaStackX/Melt-Choco)
+> A high-end, immersive landing page built with React, Tailwind CSS, and GSAP.
+- **Advanced Animations:** Scroll-triggered dynamic image swapping, "hand-drawn" SVG path drawing, and precise letter-by-letter writing effects using SplitText.
+- **Visual Depth:** Implemented smooth parallax depth effects and a physical stacking UI using React Array Refs and GSAP Stagger.
 
 ---
 
