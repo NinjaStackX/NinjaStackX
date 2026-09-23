@@ -61,7 +61,7 @@
 - **Performance:** 100/100 Lighthouse scores achieved by tuning Critical Rendering Paths and building custom CSS-only UI primitives.
 - **Advanced UX:** Optimistic "Guest-to-User" cart merging pipeline with a dynamic admin dashboard powered by Recharts.
 
-### 🍽️ [Bm.resto | DineOS | Real-Time Restaurant Management](https://github.com/NinjaStackX)
+### 🍽️ [Bm.resto | DineOS | Real-Time Restaurant Management](https://github.com/NinjaStackX/DineOS)
 > Full-stack event-driven management dashboard featuring WebSockets and persistent server hooks.
 
 - **Event-Driven Workflow:** Node.js `EventEmitter` pipeline decoupling order transactions from side effects (logging & real-time alerts).
