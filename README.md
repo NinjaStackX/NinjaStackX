@@ -1,59 +1,83 @@
 # Hi there, I'm Bashar Maaz 👋
 
-### 🚀 Full-Stack Web Developer & Informatics Engineer
+### 🚀 Full-Stack Software Engineer & Systems Architect
 
-[![MERN Stack](https://img.shields.io/badge/MERN-Full%20Stack-0082b3?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/NinjaStackX)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/NinjaStackX)
-[![Linux](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/NinjaStackX)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/NinjaStackX)
+[![Linux Enthusiast](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/NinjaStackX)
 
 ---
 
 ## 💫 About Me
 
-* 🧑‍💻 **Informatics Engineering Student** based in **Aleppo, Syria**, specializing in **Full-Stack Web Development**.
-* ⚙️ Focused on building fast, scalable applications using **Next.js**, **MERN Stack**, **PostgreSQL**, **Prisma ORM**, and **NestJS**.
-* ⚡ Active competitive programmer solving algorithmic problems on **Codeforces** using **Python**.
-* 🐧 **Linux Enthusiast** driven by clean architecture, performance optimization, and continuous learning.
+- 🎓 **Informatics Engineering Student** based in **Aleppo, Syria**, specializing in **Full-Stack Software Engineering**.
+- 🏗️ Focused on architecting scalable, enterprise-grade applications using **Layered Architecture (Repository-Service-Action)** and **Event-Driven Patterns**.
+- ⚡ Deep passion for **Performance Engineering (100/100 Lighthouse scores)**, zero-CLS strategies, and type-safe systems.
+- 🧩 Competitive programmer solving algorithmic challenges on **Codeforces** using **Python**.
+- 🐧 **Linux Enthusiast** driven by clean architecture, strict type safety, and continuous technical growth.
+
+---
+## 🧠 Technical Arsenal
+<h3><b>Frontend & UI Engineering</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+<h3><b>Backend, Database & State</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443e38?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query_v5-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+<h3><b>DevOps, Tools & Architecture</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+## 🛠️ Featured Engineering Projects
+
+### 🛒 [HQ-Store | Enterprise E-Commerce Platform](https://github.com/NinjaStackX/HQ_Store)
+> Strict Service-Repository pattern built with Next.js 15 & Prisma to decouple Business Logic from Data Access.
+
+- **Financial Integrity:** Precision pricing engine using `Decimal.js` and PostgreSQL `Decimal` types to eliminate floating-point calculation errors.
+- **Concurrency Control:** Atomic Transactions on checkout preventing race conditions and guaranteeing 100% inventory accuracy under load.
+- **Performance:** 100/100 Lighthouse scores achieved by tuning Critical Rendering Paths and building custom CSS-only UI primitives.
+- **Advanced UX:** Optimistic "Guest-to-User" cart merging pipeline with a dynamic admin dashboard powered by Recharts.
+
+### 🍽️ [Bm.resto | DineOS | Real-Time Restaurant Management](https://github.com/NinjaStackX)
+> Full-stack event-driven management dashboard featuring WebSockets and persistent server hooks.
+
+- **Event-Driven Workflow:** Node.js `EventEmitter` pipeline decoupling order transactions from side effects (logging & real-time alerts).
+- **Real-Time Engine:** Integrated Pusher Channels with `Howler.js` to bypass browser autoplay constraints for instant order alerts.
+- **Server Instrumentation:** Configured Next.js `instrumentation.ts` for server background initialization and lifecycle listeners.
+- **State Sync:** Optimized UI responsiveness using Zustand alongside TanStack Query for server hydration.
+
+### 🌐 [Syrian Platform | Dynamic Multilingual Web Platform](https://github.com/NinjaStackX/sy-platform)
+> RTL-First internationalization pipeline with zero layout shift during locale detection.
+
+- **Localization:** Automated `i18next` integration with native RTL/LTR CSS switching and mirrored Framer Motion animations.
+- **SSR & Hydration:** Resolved client/server hydration mismatches in Next.js layout layers, eliminating CLS completely.
 
 ---
 
-## 🧠 Tech Stack
+## 📐 Architectural Blueprint
 
-### **Frontend & UI**
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/NinjaStackX)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/NinjaStackX)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/NinjaStackX)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/NinjaStackX)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/NinjaStackX)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://github.com/NinjaStackX)
-
-### **Backend & Databases**
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/NinjaStackX)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/NinjaStackX)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/NinjaStackX)
-[![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://github.com/NinjaStackX)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/NinjaStackX)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/NinjaStackX)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/NinjaStackX)
-
-### **Tools & Workflow**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NinjaStackX)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/NinjaStackX)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinjaStackX)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/NinjaStackX)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/NinjaStackX)
-
----
-
-## 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bashar-maaz-4b747033a)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/NinjaStackX)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bashar.maaz.dev@gmail.com)
-
----
-
-*"Driven by curiosity, fueled by clean code."*
+```text
+Client Session ➔ Server Action ➔ Business Service ➔ Database Transaction (Prisma) ➔ EventEmitter ➔ WebSockets (Pusher) ➔ Real-Time UI Update
